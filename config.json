@@ -1,0 +1,20 @@
+{
+    "ownerNumber": "6287810007292@s.whatsapp.net",
+    "ownerName": "Eka putra",
+    "botName": "Eka bot",
+    "footer": "Eka Putra",
+    "sessionName": "session",
+    "pathimg": "./media/logo.jpg",
+    "lolkey": "KaysaS",
+    "instagram": "https://instagram.com/ekaputra45",
+    "gamewaktu": 90,
+    "limitCount": 100,
+    "gcount": {
+        "prem": 100,
+        "user": 1000
+    },
+    "sticker": {
+        "packname": "Created By",
+        "author": "Eka bot"
+    }
+}
