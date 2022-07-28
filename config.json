@@ -6,12 +6,12 @@
     "sessionName": "session",
     "pathimg": "./media/logo.jpg",
     "lolkey": "KaysaS",
-    "instagram": "https://instagram.com/ekaputra45",
+    "instagram": "https://www.instagram.com/ekaputraaputra/",
     "gamewaktu": 90,
     "limitCount": 100,
     "gcount": {
-        "prem": 100,
-        "user": 1000
+        "prem": 1000,
+        "user": 100
     },
     "sticker": {
         "packname": "Created By",
