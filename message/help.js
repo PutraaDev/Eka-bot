@@ -17,13 +17,6 @@ function toCommas(x) {
 exports.allMenu = (ucapanWaktu, pushname, mundur, upload, download, ownerName, botName, jam, tanggal, runtime, isOwner, isPremium, sender, limitCount, limit, gcount, glimit, balance, prefix) => {
     return`${ucapanWaktu} ${pushname !== undefined ? pushname : 'Kak'}
 
-Hitung Mundur Idul Adha
-${mundur}
-
-*STATISTICS*
- • Upload : ${upload}
- • Downloads : ${download}
-
 *BOT INFO*
  • Creator : ${ownerName}
  • Bot Name : ${botName}
@@ -45,11 +38,9 @@ ${readmore}
  • ${prefix}donate
  • ${prefix}dashboard
  • ${prefix}owner
- • ${prefix}groupkaysa
  • ${prefix}cekdrive
  • ${prefix}cekbandwidth
  • ${prefix}cekpremium
- • ${prefix}sewabot
  • ${prefix}listpremium
  • ${prefix}listsewa
  • ${prefix}speed
@@ -108,7 +99,6 @@ ${readmore}
  • ${prefix}youtube
  • ${prefix}instagram
  • ${prefix}igstory
- • ${prefix}tiktok
  • ${prefix}facebook
  • ${prefix}mediafire
  • ${prefix}telesticker
@@ -234,11 +224,17 @@ exports.donate = (pushname, ownerNumber) => {
     return`\t\t\t\t*「 DONATE 」*
 
 Hai ${pushname}👋
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-🏧 083811034750 (OVO/Dana/GoPay)
-
+Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
 Berapapun donasi kalian akan sangat berarti 👍
 
+*「 DONSI PULSA 」*
+
+> +62 878-1000-7292
+> +62 878-1936-4117
+
+*「 SEWA BOT 」*
+
+CHAT OWNER 
 Arigatou!
 
 Contact person Owner:
